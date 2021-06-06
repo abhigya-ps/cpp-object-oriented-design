@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\poteshresthaa\source\repos\Playing-Cards\Playing-Cards\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Playing-Cards.vcxproj -> C:\Users\poteshresthaa\source\repos\Playing-Cards\Debug\Playing-Cards.exe
