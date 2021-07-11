@@ -20,7 +20,7 @@ A simple vending machine has 4 states or steps to follow:
  </p>
 
 ### 3. [Combat Simulator](https://github.com/abhigya-ps/cpp-object-oriented-design/tree/main/hero-oop)
-Created a class to generate players from opposing sides but with the same base properties and methods using inheritance and encapsulation. Also, built a function that simulates multi-round battle between the two sides and returns the number of rounds won by each side out a predefined number of total rounds.
+Created a class to generate players from opposing sides but with the same base properties and methods using inheritance and encapsulation. Also, built a function that simulates multi-round battle between the two sides and returns the number of rounds won by each side out of a predefined number of total rounds.
 
 - Each player has a category it belongs to (protagonist or antagonist), health and shield values, method to reduce its health when attacked, and a boolean that determines whether the player has survived or not.
 - The battle simulator lets both sides attack the other side turn by turn. During each turn, a player takes a hit depending on a predefined probability of the hit successfully landing. If the hit lands, the player's health drops and eventually dies. The team with no surviving players loses that round. And the team with the higher number of victorious rounds wins the battle.
